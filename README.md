@@ -1,2 +1,2 @@
 # TestDevOps06C
- direct commit 
+ direct , delet commit word from master file and pull request 
